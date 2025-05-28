@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "fastdev": {
+      "command": "fastdev",
+      "args": ["serve"],
+      "env": {
+        "FASTDEV_LOG_LEVEL": "INFO"
+      }
+    }
+  }
+}
